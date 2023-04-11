@@ -1,3 +1,10 @@
 body {
     background-color: #ac3030;
 }
+p {
+    font-size: 10px;
+    color: #ac3030;
+}
+h2 {
+    background-color: #43151590;
+}
